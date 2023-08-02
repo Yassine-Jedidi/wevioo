@@ -1,0 +1,11 @@
+/* Landing.css */
+.landing-page-container {
+    /* Add custom background color or image */
+    background-color: #f8f8f8;
+  }
+  
+  .landing-page .img-fluid {
+    /* Add custom border-radius to images */
+    border-radius: 10px;
+  }
+  
